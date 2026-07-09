@@ -1,0 +1,21 @@
+{
+  "name": "everred-soft",
+  "displayName": "everred-soft",
+  "description": "A soft red theme inspired by pi agent everred-soft",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "everred-soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/everred-soft-color-theme.json"
+      }
+    ]
+  }
+}
