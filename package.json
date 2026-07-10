@@ -1,13 +1,24 @@
 {
-  "name": "everred-soft",
-  "displayName": "everred-soft",
-  "description": "A soft red theme inspired by pi agent everred-soft",
+  "name": "pi-themes",
+  "displayName": "Pi Themes",
+  "description": "Unified dark theme collection for Pi coding agent & VSCode/VSCodium. Everforest-inspired palette (green/red/manuscript/gruvbox variants).",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.51.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "pi",
+    "pi-agent",
+    "everforest",
+    "evergreen",
+    "everred",
+    "manuscript",
+    "gruvbox",
+    "dark-theme"
   ],
   "contributes": {
     "themes": [
